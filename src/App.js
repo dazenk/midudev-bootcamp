@@ -10,7 +10,7 @@ const App = () => {
     <div className="App">
       <Mensaje color="yellow" message="Estamos trabajando" />
       <Mensaje color="blue" message="En un curso" />
-      <Mensaje color="red" message="De React" />
+      <Mensaje color="red" message="De React para frontend" />
       <Description />
     </div>
   );
